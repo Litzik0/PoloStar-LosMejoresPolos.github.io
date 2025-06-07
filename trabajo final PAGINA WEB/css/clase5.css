@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(2, 82, 231);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-size: 20pt;
+    color:rgb(255, 6, 143);
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    width: 800px;
+    margin:auto;
+    border-radius: 15px;
+}
+
+p{
+    width: 750px;
+    text-align: justify;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+img {
+  display: block;       
+  margin: 0 auto;        
+  border-radius: 50%;    
+  width: 200px;          
+  height: 200px;         
+  object-fit: cover;    
+}

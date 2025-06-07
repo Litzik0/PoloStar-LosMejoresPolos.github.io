@@ -1,0 +1,53 @@
+a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #f7b53a; 
+  color: white;
+  text-decoration: none;
+  border-radius: 2px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+a:hover {
+  background-color: #7B2CBF; 
+}
+body{
+    background-color: #fffefe;
+}
+
+i{
+    color: rgb(113, 149, 163);
+    background-color: rgb(139, 151, 207);
+    font-size: 40pt;
+    padding:2px;
+    width: 500px;
+    margin: auto;
+    border-radius: 15px;
+}
+img {
+  display: block;       
+  margin: 0 auto;        
+  border-radius: 5%;    
+  width: 200px;          
+  height: 200px;         
+  object-fit: cover;    
+}
+
+.redonda {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 5%;
+  object-fit: cover;
+}
+.banner {  
+  display: block;
+  margin: 20px auto;
+  width: 100%; 
+  max-width: 1000px; 
+  border: 5px solid #333; 
+  border-radius: 16px; 
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); 
+}

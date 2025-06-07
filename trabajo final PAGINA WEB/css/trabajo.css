@@ -1,0 +1,13 @@
+body{
+    background-color: #d5d6d8;
+}
+
+i{
+    color: rgb(249, 251, 252);
+    background-color: rgb(238, 238, 238);
+    font-size: 40pt;
+    padding:2px;
+    width: 500px;
+    margin: auto;
+    border-radius: 15px;
+}
